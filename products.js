@@ -16,7 +16,7 @@
   var PRINTIFY = {
     "gothic-boxed-ls": "6abf935dae43f99c750ba2a5",
     "la-breeze-boxed-ls": "6abf9100361ea1da1f038941",
-    "signature-boxed-ls": "",
+    "signature-boxed-ls": "6abf939017f3ce148405dc66",
     "dream-theory-boxed-ls": "6abf9625d156dc207700a979",
     "faith-boxed-ls": "6abf951eae43f99c750ba395",
     "cross-boxed-ls": "6abf9a9975c1285cd80cc836",

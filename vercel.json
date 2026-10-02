@@ -1,0 +1,3 @@
+{
+  "functions": { "api/*.mjs": { "includeFiles": "products.js" } }
+}

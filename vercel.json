@@ -1,4 +1,0 @@
-{
-  "functions": { "api/*.mjs": { "includeFiles": "products.js" } },
-  "rewrites": [ { "source": "/", "destination": "/boxedshop.html" } ]
-}

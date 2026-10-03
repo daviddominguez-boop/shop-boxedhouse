@@ -1,0 +1,4 @@
+{
+  "functions": { "api/*.mjs": { "includeFiles": "catalogo-boxed.js" } },
+  "rewrites": [ { "source": "/", "destination": "/tienda-boxed.html" } ]
+}
